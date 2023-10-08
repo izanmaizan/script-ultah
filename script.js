@@ -6,7 +6,6 @@ function initengahan(){
   }
   
   async function mulainama() {
-    //window.location.replace("https://www.feeldream.my.id/2023/01/script-html-bucin.html");
     bodyblur.style="opacity:.7";
     wallpaper.style="transform: scale(1);";
     fotostiker.style="display:inline-flex;";setTimeout(ftmuncul,200);
