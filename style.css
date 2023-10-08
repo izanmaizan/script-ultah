@@ -58,7 +58,6 @@ body::before {
 }
 #wallpaper {
   width: 80%;
-  margin-left: 20%;
   height: 100%;
   transform: scale(2);
   transition: all 1.3s ease;
